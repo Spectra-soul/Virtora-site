@@ -25,6 +25,7 @@ At **Virtora Services**, we empower businesses by offering comprehensive outsour
 - **HTML**: Structuring the web content.
 - **CSS**: Custom styling to create an engaging user experience.
 - **JavaScript**: For interactive elements and enhancements.
+- **PHP Framework**: For admin side panel.
 
 ## Contributing
 We welcome contributions! If you'd like to contribute to this project, feel free to fork the repository, make improvements, and submit a pull request.
